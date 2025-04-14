@@ -1,7 +1,7 @@
 import os
 
 def configure_firewall():
-    # Commande pour configurer un pare-feu sur Linux
+
     os.system('sudo ufw enable')
     os.system('sudo ufw allow ssh')
     os.system('sudo ufw allow http')
