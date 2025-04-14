@@ -1,5 +1,3 @@
-# Exemple de script pour configurer un réseau VPN avec OpenVPN
-
 import os
 
 def setup_vpn():
