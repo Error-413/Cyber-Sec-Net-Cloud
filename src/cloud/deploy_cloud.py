@@ -1,5 +1,3 @@
-# Exemple de script pour déployer une application sur AWS avec Boto3
-
 import boto3
 
 def deploy_to_aws():
